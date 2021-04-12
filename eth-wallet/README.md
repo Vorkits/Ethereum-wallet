@@ -49,7 +49,7 @@ $ curl -X POST -H"Content-Type: application/json" -d'{
     "Address: 0xf85148e43E82a6C850A0dEaA02BDbf01A41e8110"
 ]
 ```
-![Alt text](doc/imgs/postmanget-balance.png?raw=true "Wallet's get balance!")
+![Alt text](doc/imgs/postman-get-balance.png?raw=true "Wallet's get balance!")
 
 ### Transactions
 Send ether to another wallet
