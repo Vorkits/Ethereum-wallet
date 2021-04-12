@@ -1,5 +1,7 @@
 # eth-wallet 
-
+```
+Run eth_wallets.py
+```
 
 ## Installation
 1. Clone this repository  
