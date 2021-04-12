@@ -26,7 +26,7 @@ POST method
 "Keystore path:": "C:\Users\Данил/.eth-wallet/keystore", 
 "Remember these words to restore eth-wallet:": "enact amount arctic slam muffin regular word devote dutch afford opinion cheap"}"
 ```
-![Alt text](doc/imgs/postman-new-wallet.png?raw=true "Create new wallets!")
+![Alt text](eth-wallet/doc/imgs/postman-new-wallet.png?raw=true "Create new wallets!")
 
 Show wallet:
 GET method
@@ -39,7 +39,7 @@ GET method
     "Pub_key: 0xe5adac4287917f1de76b0da640c162d96437c79fbe9e3334b2c9bb8e21258ce26ca094ed22fb7420ab2efea59750408bd0f28ae6f14bf39056ac95b8b4c289ef"
 ]
 ```
-![Alt text](doc/imgs/postman-get-wallet.png?raw=true "Get wallet!")
+![Alt text](eth-wallet/doc/imgs/postman-get-wallet.png?raw=true "Get wallet!")
 
 ### Balances
 Get ETH wallet balance:
@@ -55,7 +55,7 @@ POST method
     "Address: 0xf85148e43E82a6C850A0dEaA02BDbf01A41e8110"
 ]
 ```
-![Alt text](doc/imgs/postman-get-balance.png?raw=true "Wallet's get balance!")
+![Alt text](eth-wallet/doc/imgs/postman-get-balance.png?raw=true "Wallet's get balance!")
 
 ### Transactions
 Send ether to another wallet
@@ -70,7 +70,7 @@ POST method
   }
 
 ```
-![Alt text](doc/imgs/postman-transactions.png?raw=true "Wallet's send transaction!")
+![Alt text](eth-wallet/doc/imgs/postman-transactions.png?raw=true "Wallet's send transaction!")
 
 ### Wallet utils
 
@@ -84,5 +84,5 @@ POST method
   
 "{"Account prv key": "0xfe550e37c68a8f43b9eed9cd7d9da665c1f5a9bc88358120213a1ed919cfa6ec"}"
 ``` 
-![Alt text](doc/imgs/postman-secretkey.png?raw=true "Wallet's Secret key!")  
+![Alt text](eth-wallet/doc/imgs/postman-secretkey.png?raw=true "Wallet's Secret key!")  
 
